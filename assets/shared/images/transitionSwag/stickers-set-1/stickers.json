@@ -1,0 +1,21 @@
+{
+  "name": "stickers-set-1",
+  "artist": "andrethyno",
+  "stickers": {
+    "sayver": ["sayverSticker1", "sayverSticker2", "sayverSticker3"],
+    "amlex": ["amlexSticker1", "amlexSticker2", "amlexSticker3"],
+    "yorch": ["yorchSticker1", "yorchSticker2", "yorchSticker3"],
+    "warloz": ["warlozSticker1", "warlozSticker2", "warlozSticker3"],
+    "snepy": ["snepySticker1", "snepySticker2", "snepySticker3"],
+    "nath": ["nathSticker"],
+    "arino": ["arinoSticker"],
+    "alexis": ["alexisSticker1", "alexisSticker2", "alexisSticker3"],
+    "guty": ["gutySticker1", "gutySticker2", "gutySticker3"]
+  },
+  "stickerPacks": {
+    "lopez": ["amlex", "sayver", "yorch", "warloz", "guty"],
+    "extra": ["snepy", "nath", "arino", "alexis"],
+    "devs": ["nath", "arino"],
+    "all": ["sayver", "amlex", "yorch", "warloz", "snepy", "nath", "arino", "alexis", "guty"]
+  }
+}

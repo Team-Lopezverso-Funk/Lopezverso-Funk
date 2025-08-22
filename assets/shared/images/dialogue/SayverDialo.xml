@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SayverDialo.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1.png" x="0" y="0" width="1116" height="1123"/>
+	<SubTexture name="10.png" x="1116" y="0" width="749" height="1279"/>
+	<SubTexture name="11.png" x="1865" y="0" width="1064" height="1252"/>
+	<SubTexture name="12.png" x="2929" y="0" width="743" height="983"/>
+	<SubTexture name="13.png" x="3672" y="0" width="713" height="995"/>
+	<SubTexture name="14.png" x="4385" y="0" width="755" height="989"/>
+	<SubTexture name="15.png" x="5140" y="0" width="737" height="971"/>
+	<SubTexture name="16.png" x="5877" y="0" width="776" height="1001"/>
+	<SubTexture name="17.png" x="6653" y="0" width="779" height="1001"/>
+	<SubTexture name="18.png" x="7432" y="0" width="696" height="979"/>
+	<SubTexture name="19.png" x="0" y="1279" width="687" height="979"/>
+	<SubTexture name="2.png" x="687" y="1279" width="781" height="987"/>
+	<SubTexture name="20.png" x="1468" y="1279" width="745" height="979"/>
+	<SubTexture name="21.png" x="2213" y="1279" width="867" height="973"/>
+	<SubTexture name="22.png" x="3080" y="1279" width="735" height="983"/>
+	<SubTexture name="23.png" x="3815" y="1279" width="1218" height="1030"/>
+	<SubTexture name="24.png" x="5033" y="1279" width="692" height="999"/>
+	<SubTexture name="25.png" x="5725" y="1279" width="700" height="966"/>
+	<SubTexture name="3.png" x="6425" y="1279" width="733" height="997"/>
+	<SubTexture name="4.png" x="7158" y="1279" width="879" height="1026"/>
+	<SubTexture name="5.png" x="0" y="2309" width="783" height="917"/>
+	<SubTexture name="6.png" x="783" y="2309" width="877" height="983"/>
+	<SubTexture name="7.png" x="1660" y="2309" width="1218" height="1082"/>
+	<SubTexture name="8.png" x="2878" y="2309" width="762" height="1003"/>
+	<SubTexture name="9.png" x="3640" y="2309" width="716" height="971"/>
+	<SubTexture name="Yipi.png" x="4356" y="2309" width="724" height="899"/>
+</TextureAtlas>

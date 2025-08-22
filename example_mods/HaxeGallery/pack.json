@@ -1,0 +1,9 @@
+{
+	"name": "Haxe Gallery",
+	"description": "Adds gallery in the freeplay menu",
+	"restart": false,
+	"runsGlobally": true,
+	"color": [102, 102, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

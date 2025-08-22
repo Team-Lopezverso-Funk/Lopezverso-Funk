@@ -1,0 +1,251 @@
+{
+	"camera_boyfriend": [
+		-400,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "sayver",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		1243,
+		570
+	],
+	"stageUI": "normal",
+	"girlfriend": [
+		496,
+		562
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.55,
+	"objects": [
+		{
+			"x": -398,
+			"y": -117,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Playa Vallarta/cielo",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -402,
+			"y": -141,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Playa Vallarta/BG",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Playa",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -402,
+			"y": -138,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Playa Vallarta/pabimento",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "suelo",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1432,
+			"y": 389,
+			"scale": [
+				0.7,
+				0.7
+			],
+			"image": "Playa Vallarta/Jomedy_113158",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Jomedu",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1603,
+			"y": 402,
+			"scale": [
+				0.7,
+				0.7
+			],
+			"image": "Playa Vallarta/Leo",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Leo",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -402,
+			"y": -138,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Playa Vallarta/Palmeras",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "palmera",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 373,
+			"y": 474,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "Playa Vallarta/AmlexStage",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "AmlexStage",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 101,
+			"y": 363,
+			"scale": [
+				0.7,
+				0.7
+			],
+			"image": "Playa Vallarta/YorchStage",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "YorchStage",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 935,
+			"y": 466,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "Playa Vallarta/WarlozStage",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "WarlozStage",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"opponent": [
+		-39,
+		550
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		450,
+		100
+	]
+}

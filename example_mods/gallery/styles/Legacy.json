@@ -1,0 +1,88 @@
+
+{
+    "background" : {
+            "path": "menuDesat",
+            "scale":[1, 1],
+            "antialiasing": true,
+            "offset": [0, 0],
+            "animationName": null,
+            "animationSpeed": 24,
+
+            "flipX": false,
+            "flipY": false,
+
+            "color": "ffffff",
+
+            "scrolling" : {
+                    "enabled": true,
+                    "speed": 4
+                }
+        },
+
+    "topBar" :{
+            "path": "gallery/styles/Legacy/upPart",
+            "pos":[0, -75],
+            "scale":[1, 1],
+            "antialiasing": true,
+            "animationName": null,
+            "animationSpeed": 12,
+            "flipX": false,
+            "flipY": false,
+            "scrolling" : {
+                    "enabled": true,
+                    "speed": 2
+                }
+            
+        },
+
+    "bottomBar" : {
+        "path": "gallery/styles/Legacy/downPart",
+        "pos":[0, 25],
+        "scale":[1, 1],
+        "antialiasing": true,
+        "animationName": null,
+        "animationSpeed": 12,
+        "flipX": false,
+        "flipY": false,
+        "scrolling" : {
+                "enabled": false,
+                "speed": 4
+            }
+    },
+
+    "logo" : {
+            "path": "gallery/styles/Legacy/logo",
+            "pos":[0, -40],
+            "scale":[1, 1],
+            "animationName": null,
+            "animationSpeed": 12,
+            "flipX": false,
+            "flipY": false
+        },
+
+    "descriptionText": {
+        "font": "Strawberry Blossom",
+        "color": "ffffff",
+        "pos":[0, 0]
+    },
+
+    "arrows" : {
+        "leftArrow":{
+            "path": "editors/eventIcon",
+            "pos":[1030, 580],
+            "scale":[0.65, 0.65],
+            "antialiasing": true,
+            "flipX": true,
+            "flipY": false
+        },
+        "rightArrow":{
+            "path": "editors/eventIcon",
+            "pos":[1140, 580],
+            "scale":[0.65, 0.65],
+            "antialiasing": true,
+            "flipX": false,
+            "flipY": false
+        }
+    }
+    
+}

@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"Guty y los soyers",
+			"guty",
+			[
+				206,
+				113,
+				253
+			]
+		],
+		[
+			"Super hater 64",
+			"mario",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"shinji",
+			"shinji",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"alexis",
+			"alexis",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"neko lopez",
+			"nekosayver",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "easy,hard",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "lopezweekextra",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

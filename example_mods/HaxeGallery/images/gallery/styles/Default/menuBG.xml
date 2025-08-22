@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuBG.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menuBG0000" x="0" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0001" x="0" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0002" x="0" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0003" x="1286" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0004" x="1286" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0005" x="1286" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0006" x="2572" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0007" x="2572" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0008" x="2572" y="0" width="1286" height="730"/>
+	<SubTexture name="menuBG0009" x="0" y="730" width="1286" height="730"/>
+	<SubTexture name="menuBG0010" x="0" y="730" width="1286" height="730"/>
+	<SubTexture name="menuBG0011" x="0" y="730" width="1286" height="730"/>
+</TextureAtlas>

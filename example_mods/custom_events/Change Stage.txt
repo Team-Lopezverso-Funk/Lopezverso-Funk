@@ -1,0 +1,4 @@
+An event that changes the stage from a json and stage script!
+
+Value 1: the name of the stage script in the stages folder.
+Value 2: The script type. If the stage script is a 'lua' or 'hx' script.

@@ -1,0 +1,2 @@
+Value1: Nombre del stage a cambiar (Ejemplo: "limo", "mall", "school")
+Value2: Nada lol

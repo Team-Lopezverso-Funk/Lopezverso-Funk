@@ -1,0 +1,250 @@
+{
+	"version": "1.0.0",
+	"name": "lopez",
+	"ownedChars": [
+		"bf",
+		"bf-car",
+		"bf-pixel",
+		"bf-christmas",
+		"bf-holding-gf"
+	],
+	"showUnownedChars": false,
+	"freeplayStyle": "bf",
+	"freeplayDJ": {
+		"assetPath": "freeplay/freeplay-boyfriend",
+		"text1": "LOPEZ",
+		"text2": "Disfrutando jugar con mis hermanos cosas fuera de lo comun y venerar a mi gato Shinji :)",
+		"text3": "SHINJI DEIDAD",
+		"animations": [
+			{
+				"offsets": [
+					632,
+					363
+				],
+				"prefix": "boyfriend dj intro",
+				"name": "intro"
+			},
+			{
+				"offsets": [
+					625,
+					360
+				],
+				"prefix": "Boyfriend DJ",
+				"name": "idle"
+			},
+			{
+				"offsets": [
+					1274,
+					418
+				],
+				"prefix": "bf dj afk",
+				"name": "idleEasterEgg"
+			},
+			{
+				"offsets": [
+					625,
+					360
+				],
+				"prefix": "Boyfriend DJ confirm",
+				"name": "confirm"
+			},
+			{
+				"offsets": [
+					625,
+					360
+				],
+				"prefix": "Boyfriend DJ fist pump",
+				"name": "fistPump"
+			},
+			{
+				"offsets": [
+					625,
+					360
+				],
+				"prefix": "Boyfriend DJ watchin tv OG",
+				"name": "cartoon"
+			},
+			{
+				"offsets": [
+					625,
+					360
+				],
+				"prefix": "Boyfriend DJ loss reaction 1",
+				"name": "loss"
+			},
+			{
+				"offsets": [
+					625,
+					360
+				],
+				"prefix": "Boyfriend DJ to CS",
+				"name": "charSelect"
+			},
+			{
+				"offsets": [
+					625,
+					360
+				],
+				"prefix": "Boyfriend DJ new character ",
+				"name": "newUnlock"
+			}
+		],
+		"charSelect": {
+			"transitionDelay": 0.45
+		},
+		"cartoon": {
+			"soundClickFrame": 80,
+			"loopBlinkFrame": 112,
+			"loopFrame": 166,
+			"soundCartoonFrame": 85,
+			"channelChangeFrame": 60
+		},
+		"fistPump": {
+			"introBadStartFrame": 0,
+			"loopBadStartFrame": 4,
+			"introEndFrame": 4,
+			"loopEndFrame": -1,
+			"loopStartFrame": 4,
+			"introStartFrame": 0,
+			"introBadEndFrame": 4,
+			"loopBadEndFrame": -1
+		}
+	},
+	"charSelect": {
+		"position": 5,
+		"gf": {
+			"animInfoPath": "charSelect/gfAnimInfo",
+			"visualizer": false,
+			"assetPath": "charSelect/gfChill"
+		}
+	},
+	"results": {
+		"music": {
+			"SHIT": "resultsSHIT",
+			"PERFECT": "resultsPERFECT",
+			"GREAT": "resultsNORMAL",
+			"GOOD": "resultsNORMAL",
+			"EXCELLENT": "resultsEXCELLENT",
+			"PERFECT_GOLD": "resultsPERFECT"
+		},
+		"perfectGold": [
+			{
+				"renderType": "animateatlas",
+				"zIndex": 500,
+				"offsets": [
+					1342,
+					370
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsPERFECT",
+				"loopFrame": 137
+			},
+			{
+				"renderType": "animateatlas",
+				"zIndex": 501,
+				"offsets": [
+					1342,
+					370
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsPERFECT/hearts",
+				"loopFrame": 43,
+				"delay": 4.41
+			}
+		],
+		"perfect": [
+			{
+				"renderType": "animateatlas",
+				"zIndex": 500,
+				"offsets": [
+					1342,
+					370
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsPERFECT",
+				"loopFrame": 137
+			},
+			{
+				"renderType": "animateatlas",
+				"zIndex": 501,
+				"offsets": [
+					1342,
+					370
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsPERFECT/hearts",
+				"loopFrame": 43,
+				"delay": 4.41
+			}
+		],
+		"great": [
+			{
+				"renderType": "animateatlas",
+				"offsets": [
+					802,
+					331
+				],
+				"zIndex": 499,
+				"assetPath": "shared:resultScreen/results-bf/resultsGREAT/gf",
+				"loopFrame": 9,
+				"scale": 0.93,
+				"delay": 0.25
+			},
+			{
+				"renderType": "animateatlas",
+				"zIndex": 500,
+				"offsets": [
+					929,
+					363
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsGREAT/bf",
+				"loopFrame": 15,
+				"scale": 0.93
+			}
+		],
+		"good": [
+			{
+				"renderType": "animateatlas",
+				"zIndex": 501,
+				"offsets": [
+					662,
+					371
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsGOOD/bf",
+				"loopFrame": 14
+			},
+			{
+				"renderType": "sparrow",
+				"zIndex": 500,
+				"offsets": [
+					629,
+					323
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD",
+				"loopFrame": 9,
+				"delay": 0.25
+			}
+		],
+		"excellent": [
+			{
+				"renderType": "animateatlas",
+				"zIndex": 500,
+				"offsets": [
+					1329,
+					429
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsEXCELLENT",
+				"loopFrame": 29
+			}
+		],
+		"loss": [
+			{
+				"renderType": "animateatlas",
+				"zIndex": 500,
+				"offsets": [
+					0,
+					20
+				],
+				"assetPath": "shared:resultScreen/results-bf/resultsSHIT",
+				"loopFrameLabel": "Loop Start"
+			}
+		]
+	},
+	"unlocked": true
+}

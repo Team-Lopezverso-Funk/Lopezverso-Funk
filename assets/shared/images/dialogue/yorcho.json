@@ -1,0 +1,336 @@
+{
+	"position": [
+		-440,
+		-360
+	],
+	"dialogue_pos": "left",
+	"scale": 0.5,
+	"image": "yorcho",
+	"animations": [
+		{
+			"loop_offsets": [
+				-200,
+				10
+			],
+			"anim": "Eh",
+			"idle_offsets": [
+				-200,
+				10
+			],
+			"loop_name": "",
+			"idle_name": "idle0001.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-10
+			],
+			"anim": "Feliz",
+			"idle_offsets": [
+				-220,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "idle0002.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				0
+			],
+			"anim": "quejas",
+			"idle_offsets": [
+				-220,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "idle0003.png"
+		},
+		{
+			"loop_offsets": [
+				-230,
+				-30
+			],
+			"anim": "oh_SI",
+			"idle_offsets": [
+				-230,
+				-30
+			],
+			"loop_name": "",
+			"idle_name": "idle0004.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-30
+			],
+			"anim": "duda",
+			"idle_offsets": [
+				-220,
+				-30
+			],
+			"loop_name": "",
+			"idle_name": "idle0005.png"
+		},
+		{
+			"loop_offsets": [
+				-160,
+				0
+			],
+			"anim": "ninini",
+			"idle_offsets": [
+				-160,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "idle0006.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-20
+			],
+			"anim": "arto",
+			"idle_offsets": [
+				-220,
+				-20
+			],
+			"loop_name": "",
+			"idle_name": "idle0007.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-4
+			],
+			"anim": "Sorprendido",
+			"idle_offsets": [
+				-220,
+				-4
+			],
+			"loop_name": "",
+			"idle_name": "idle0008.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				10
+			],
+			"anim": "firme",
+			"idle_offsets": [
+				-220,
+				10
+			],
+			"loop_name": "",
+			"idle_name": "idle0009.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				10
+			],
+			"anim": "prota",
+			"idle_offsets": [
+				-220,
+				10
+			],
+			"loop_name": "",
+			"idle_name": "idle0010.png"
+		},
+		{
+			"loop_offsets": [
+				-240,
+				-20
+			],
+			"anim": "oh",
+			"idle_offsets": [
+				-240,
+				-20
+			],
+			"loop_name": "",
+			"idle_name": "idle0011.png"
+		},
+		{
+			"loop_offsets": [
+				-230,
+				-20
+			],
+			"anim": "Hmf",
+			"idle_offsets": [
+				-230,
+				-20
+			],
+			"loop_name": "",
+			"idle_name": "idle0012.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-10
+			],
+			"anim": "nice",
+			"idle_offsets": [
+				-220,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "idle0013.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-20
+			],
+			"anim": "serio",
+			"idle_offsets": [
+				-220,
+				-20
+			],
+			"loop_name": "",
+			"idle_name": "idle0014.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-20
+			],
+			"anim": "JAJA",
+			"idle_offsets": [
+				-220,
+				-20
+			],
+			"loop_name": "",
+			"idle_name": "idle0015.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-20
+			],
+			"anim": "tesoro",
+			"idle_offsets": [
+				-220,
+				-20
+			],
+			"loop_name": "",
+			"idle_name": "idle0016.png"
+		},
+		{
+			"loop_offsets": [
+				-230,
+				-10
+			],
+			"anim": "Jeje",
+			"idle_offsets": [
+				-230,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "idle0017.png"
+		},
+		{
+			"loop_offsets": [
+				-230,
+				-20
+			],
+			"anim": "T_T",
+			"idle_offsets": [
+				-230,
+				-20
+			],
+			"loop_name": "",
+			"idle_name": "idle0018.png"
+		},
+		{
+			"loop_offsets": [
+				-230,
+				-10
+			],
+			"anim": "ah",
+			"idle_offsets": [
+				-230,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "idle0019.png"
+		},
+		{
+			"loop_offsets": [
+				-220,
+				-10
+			],
+			"anim": "AAAAAAH",
+			"idle_offsets": [
+				-220,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "idle0020.png"
+		},
+		{
+			"loop_offsets": [
+				-230,
+				-10
+			],
+			"anim": "XD",
+			"idle_offsets": [
+				-230,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "idle0021.png"
+		},
+		{
+			"loop_offsets": [
+				-250,
+				-10
+			],
+			"anim": "MR",
+			"idle_offsets": [
+				-250,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "idle0022.png"
+		},
+		{
+			"loop_offsets": [
+				-230,
+				-20
+			],
+			"anim": "ou",
+			"idle_offsets": [
+				-230,
+				-20
+			],
+			"loop_name": "",
+			"idle_name": "idle0023.png"
+		},
+		{
+			"loop_offsets": [
+				-240,
+				-10
+			],
+			"anim": ">3",
+			"idle_offsets": [
+				-240,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "idle0024.png"
+		},
+		{
+			"loop_offsets": [
+				-240,
+				-60
+			],
+			"anim": "yipi",
+			"idle_offsets": [
+				-240,
+				-60
+			],
+			"loop_name": "",
+			"idle_name": "idle0025.png"
+		}
+	]
+}

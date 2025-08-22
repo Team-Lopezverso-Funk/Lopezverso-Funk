@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YorchO.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000.png" x="0" y="0" width="1153" height="1191"/>
+	<SubTexture name="idle0001.png" x="1153" y="0" width="716" height="1077"/>
+	<SubTexture name="idle0002.png" x="1869" y="0" width="644" height="1046"/>
+	<SubTexture name="idle0003.png" x="2513" y="0" width="860" height="1050"/>
+	<SubTexture name="idle0004.png" x="3373" y="0" width="800" height="971"/>
+	<SubTexture name="idle0005.png" x="4173" y="0" width="809" height="1025"/>
+	<SubTexture name="idle0006.png" x="4982" y="0" width="1243" height="1108"/>
+	<SubTexture name="idle0007.png" x="6225" y="0" width="656" height="1023"/>
+	<SubTexture name="idle0008.png" x="6881" y="0" width="759" height="1049"/>
+	<SubTexture name="idle0009.png" x="0" y="1191" width="753" height="1298"/>
+	<SubTexture name="idle0010.png" x="753" y="1191" width="1077" height="1282"/>
+	<SubTexture name="idle0011.png" x="1830" y="1191" width="663" height="995"/>
+	<SubTexture name="idle0012.png" x="2493" y="1191" width="657" height="1007"/>
+	<SubTexture name="idle0013.png" x="3150" y="1191" width="770" height="1013"/>
+	<SubTexture name="idle0014.png" x="3920" y="1191" width="657" height="1019"/>
+	<SubTexture name="idle0015.png" x="4577" y="1191" width="732" height="1033"/>
+	<SubTexture name="idle0016.png" x="5309" y="1191" width="669" height="1025"/>
+	<SubTexture name="idle0017.png" x="5978" y="1191" width="662" height="1015"/>
+	<SubTexture name="idle0018.png" x="6640" y="1191" width="670" height="1001"/>
+	<SubTexture name="idle0019.png" x="7310" y="1191" width="672" height="1007"/>
+	<SubTexture name="idle0020.png" x="0" y="2489" width="850" height="1021"/>
+	<SubTexture name="idle0021.png" x="850" y="2489" width="669" height="1019"/>
+	<SubTexture name="idle0022.png" x="1519" y="2489" width="1181" height="1054"/>
+	<SubTexture name="idle0023.png" x="2700" y="2489" width="647" height="1005"/>
+	<SubTexture name="idle0024.png" x="3347" y="2489" width="653" height="1014"/>
+	<SubTexture name="idle0025.png" x="4000" y="2489" width="672" height="883"/>
+</TextureAtlas>

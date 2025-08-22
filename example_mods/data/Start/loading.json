@@ -1,0 +1,11 @@
+{
+"timeLoad": 1,
+"minLoadBG": 1,
+"maxLoadBG": 8,
+"charsBFS": ["bf", "dad", "gf"],
+"charsDADS": ["bf", "dad", "gf"],
+"charsGF": ["bf", "dad", "gf"],
+"images": ["funkay", "menuBG", "menuBGBlue", "menuDesat"],
+"sounds": ["results_intro", "intro1-arg", "intro2-arg"],
+"dialogue": ["dialogue"]
+}	

@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "duda",
+			"text": "A ver si Entendi, te c$%#gaste mi Helado solo para tener una batalla de Rap conmigo?",
+			"boxState": "normal",
+			"portrait": "Sayverdialo",
+			"speed": 0.05,
+			"sound": "sayver"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "talk",
+			"text": "Dice que si",
+			"boxState": "normal",
+			"portrait": "GF",
+			"speed": 0.05,
+			"sound": "GFD"
+		},
+		{
+			"expression": "quejas",
+			"text": "¡A ver Kbrones pero si ni los conozco!",
+			"boxState": "normal",
+			"portrait": "sayverdialo",
+			"speed": 0.05,
+			"sound": "sayver"
+		},
+		{
+			"expression": "4",
+			"text": "Boop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "pregunto",
+			"text": "Que dijo el vato?",
+			"boxState": "normal",
+			"portrait": "sayverdialo",
+			"speed": 0.05,
+			"sound": "sayver"
+		},
+		{
+			"expression": "talk",
+			"text": "Qlo si no",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "gfd"
+		},
+		{
+			"expression": "nice",
+			"text": "Bueno que comienze la batalla",
+			"boxState": "normal",
+			"portrait": "sayverdialo",
+			"speed": 0.05,
+			"sound": "sayver"
+		}
+	]
+}

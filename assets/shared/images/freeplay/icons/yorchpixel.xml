@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yorchpixel.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="confirm0000" x="62" y="0" width="30" height="31" frameX="-1" frameY="1" frameWidth="30" frameHeight="28"/>
+	<SubTexture name="confirm0001" x="0" y="32" width="30" height="28" frameX="-1" frameY="-2" frameWidth="30" frameHeight="28"/>
+	<SubTexture name="confirm0002" x="31" y="0" width="31" height="31" frameX="1" frameY="1" frameWidth="30" frameHeight="28"/>
+	<SubTexture name="confirm0003" x="0" y="0" width="31" height="32" frameX="1" frameY="2" frameWidth="30" frameHeight="28"/>
+</TextureAtlas>

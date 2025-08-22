@@ -1,0 +1,45 @@
+{
+	"storyName": "Los lopez rapean",
+	"difficulties": "vallarta",
+	"hideFreeplay": false,
+	"weekBackground": "playa",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Start vallarta",
+			"sayver",
+			[
+				66,
+				133,
+				253
+			]
+		],
+		[
+			"El prota Vallarta",
+			"amlex",
+			[
+				26,
+				233,
+				60
+			]
+		],
+		[
+			"",
+			"yorch",
+			[
+				255,
+				0,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "lopez vallarta",
+	"hiddenUntilUnlocked": false
+}

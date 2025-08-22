@@ -1,0 +1,4 @@
+                 from Better Discord RPC module
+value 1 commands: Cutscene, Change Details,
+Change State, Enable Timer and Change Client ID
+check readme in custom_events folder for more help

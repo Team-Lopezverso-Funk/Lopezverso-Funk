@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vallarta-Rythm-text.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FNF OST VOL0000" x="0" y="0" width="316" height="181" frameX="-17" frameY="-26" frameWidth="350" frameHeight="207"/>
+	<SubTexture name="FNF OST VOL0001" x="0" y="181" width="350" height="207"/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="exit.png" width="520" height="572">
+	<SubTexture name="pm_exitidle0000" x="1" y="1" width="232" height="436" frameX="-27" frameY="-42" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitidle0001" x="1" y="1" width="232" height="436" frameX="-27" frameY="-42" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitidle0002" x="1" y="1" width="232" height="436" frameX="-27" frameY="-42" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitidle0003" x="1" y="1" width="232" height="436" frameX="-27" frameY="-42" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitidle0004" x="1" y="1" width="232" height="436" frameX="-27" frameY="-42" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitidle0005" x="1" y="1" width="232" height="436" frameX="-27" frameY="-42" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitidle0006" x="1" y="1" width="232" height="436" frameX="-27" frameY="-42" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0000" x="238" y="434" width="265" height="137" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0001" x="238" y="434" width="265" height="137" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0002" x="238" y="434" width="265" height="137" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0003" x="238" y="434" width="265" height="137" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0004" x="238" y="434" width="265" height="137" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0005" x="238" y="1" width="138" height="285" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0006" x="238" y="1" width="138" height="285" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0007" x="238" y="1" width="138" height="285" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0008" x="238" y="1" width="138" height="285" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0009" x="238" y="1" width="138" height="285" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0010" x="238" y="291" width="276" height="138" frameX="-27" frameY="-344" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0011" x="238" y="291" width="276" height="138" frameX="-27" frameY="-344" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0012" x="238" y="291" width="276" height="138" frameX="-27" frameY="-344" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0013" x="238" y="291" width="276" height="138" frameX="-27" frameY="-344" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0014" x="238" y="291" width="276" height="138" frameX="-27" frameY="-344" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0015" x="381" y="1" width="138" height="266" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0016" x="381" y="1" width="138" height="266" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0017" x="381" y="1" width="138" height="266" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0018" x="381" y="1" width="138" height="266" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+	<SubTexture name="pm_exitc0019" x="381" y="1" width="138" height="266" rotated="true" frameX="-27" frameY="-345" frameWidth="595" frameHeight="483"/>
+</TextureAtlas>

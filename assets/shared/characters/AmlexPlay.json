@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [300, 131],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [300, 131],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [300, 131],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upMiss"
+		},
+		{
+			"loop": false,
+			"offsets": [300, 131],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [300, 131],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downMiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [300, 131],
+			"anim": "hey",
+			"fps": 30,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [300, 131],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [300, 131],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"offsets": [300, 131],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "leftMiss"
+		},
+		{
+			"offsets": [300, 131],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "rightMiss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Amlex",
+	"position": [0, 0],
+	"healthicon": "amblex",
+	"flip_x": true,
+	"healthbar_colors": [0, 255, 74],
+	"camera_position": [-220, -30],
+	"sing_duration": 4.1,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

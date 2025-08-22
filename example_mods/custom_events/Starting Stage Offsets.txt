@@ -1,0 +1,4 @@
+Value 1: X offset
+Value 2: Y offset
+
+Changes the offsets for the first stage to load.

@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Memes Devs",
+        "icon": "default",
+        "antialiasing": true,
+        "animationName": null,
+        "scale": [1.0, 1.0],
+
+        "textColor": "FF1C00",
+
+        "music": "yorch",
+        "enablePhotoMode": true,
+
+        "style": "Default",
+
+        "images":[
+            {
+                "name": "memesdevs/pruebas",
+                "description": "pruebas",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "FFFFFF"
+                            
+            },
+            {
+                "name": "memesdevs/nath",
+                "description": "Nathaniel OOC",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "a83240"
+                            
+            },
+            {
+                "name": "memesdevs/meme1",
+                "description": "no pregunten",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "FFFFFF"
+            },
+            {
+                "name": "memesdevs/directores",
+                "description": "Ya sabemos quien manda",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "454041"
+            },
+            {
+                "name": "memesdevs/corte",
+                "description": "Corte para Amlex",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "FFFFFF"
+            },
+            {
+                "name": "memesdevs/leakercela",
+                "description": "leakercela",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "FFFFFF"
+            },
+            {
+                "name": "memesdevs/IDK",
+                "description": "IDK",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "FFFFFF"
+            },
+            {
+                "name": "memesdevs/antilopez",
+                "description": "antilopez",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "FFFFFF"
+            }
+        ]
+    }
+]

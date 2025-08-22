@@ -1,0 +1,16 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "dad",
+		"notes": [],
+		"gfVersion": "gf",
+		"events": [],
+		"player3": null,
+		"song": "Gallery",
+		"validScore": true,
+		"needsVoices": true,
+		"stage": "HaxeGalleryMain",
+		"speed": 1,
+		"bpm": 100
+	}
+}

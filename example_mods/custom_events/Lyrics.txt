@@ -1,0 +1,4 @@
+Adds some text on the screen.
+Value 1: The lyrics.
+Value 2: The color (in HEX) of the lyrics
+(It'll default to white if it's blank.)

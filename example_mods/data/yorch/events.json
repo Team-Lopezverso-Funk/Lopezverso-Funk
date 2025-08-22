@@ -1,0 +1,29 @@
+{
+	"events": [
+		[
+			38000,
+			[
+				["coloredapple", "1", ""]
+			]
+		],
+		[
+			44800,
+			[
+				["coloredapple", "0", ""]
+			]
+		],
+		[
+			89100,
+			[
+				["coloredapple", "1", ""]
+			]
+		],
+		[
+			102400,
+			[
+				["coloredapple", "0", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

@@ -1,0 +1,139 @@
+
+{
+    "background" : {
+            "path": "gallery/styles/Default/menuBG",
+            "scale":[1, 1],
+            "antialiasing": true,
+            "offset": [0, 0],
+            "animationName": "menuBG",
+            "animationSpeed": 12,
+
+            "flipX": false,
+            "flipY": false,
+
+            "color": "ffffff",
+
+            "scrolling" : {
+                    "enabled": true,
+                    "speed": 4
+                }
+        },
+
+    "topBar" :{
+            "path": "gallery/styles/Default/upPart",
+            "pos":[0, -75],
+            "scale":[1, 1],
+            "antialiasing": true,
+            "animationName": null,
+            "animationSpeed": 12,
+            "flipX": false,
+            "flipY": false,
+            "scrolling" : {
+                    "enabled": true,
+                    "speed": 2
+                }
+            
+        },
+
+    "bottomBar" : {
+        "path": "gallery/styles/Default/downPart",
+        "pos":[0, 25],
+        "scale":[1, 1],
+        "antialiasing": true,
+        "animationName": null,
+        "animationSpeed": 12,
+        "flipX": false,
+        "flipY": false,
+        "scrolling" : {
+                "enabled": false,
+                "speed": 4
+            }
+    },
+
+    "logo" : {
+            "path": "gallery/styles/Default/logo",
+            "pos":[0, 0],
+            "scale":[1, 1],
+            "animationName": null,
+            "animationSpeed": 12,
+            "flipX": false,
+            "flipY": false
+        },
+
+    "photoMode" : {
+        "path" : "gallery/styles/Default/inspectorMode",
+        "pos":[20, 20],
+        "scale":[1, 1],
+        "antialiasing": true,
+        "offset": [0, 0],
+        "flipX": false,
+        "flipY": false,
+        "animations":{
+            "type": "singleImage",
+            "width": 128,
+            "height": 96,
+            "enabled":{
+                "prefix": [1],
+                "offset": [0, 0],
+                "speed": 24
+            },
+            "disabled":{
+                "prefix": [0],
+                "offset": [0, 0],
+                "speed": 24
+            }
+        }
+    },
+
+    "descriptionText": {
+        "font": "FnfWeekUiFont",
+        "color": "ffffff",
+        "pos":[0, 10]
+    },
+
+    "pageText": {
+        "font": "FnfWeekUiFont",
+        "color": "ffffff",
+        "pos":[-400, 40]
+    },
+
+    "arrows" : {
+        "leftArrow":{
+            "path": "gallery/styles/Default/NOTE_assets",
+            "pos":[1020, 580],
+            "scale":[0.65, 0.65],
+            "antialiasing": true,
+            "flipX": false,
+            "flipY": false,
+            "animations":{
+                "static":{
+                    "prefix": "arrow static instance 1",
+                    "speed": 24
+                },
+                "pressed":{
+                    "prefix": "left confirm instance 1",
+                    "speed": 24
+                }
+            }
+        },
+        "rightArrow":{
+            "path": "gallery/styles/Default/NOTE_assets",
+            "pos":[1140, 580],
+            "scale":[0.65, 0.65],
+            "antialiasing": true,
+            "flipX": false,
+            "flipY": false,
+            "animations":{
+                "static":{
+                    "prefix": "arrow static instance 3",
+                    "speed": 24
+                },
+                "pressed":{
+                    "prefix": "right confirm instance 1",
+                    "speed": 24
+                }
+            }
+        }
+    }
+    
+}

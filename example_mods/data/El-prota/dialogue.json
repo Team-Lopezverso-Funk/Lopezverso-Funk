@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Bep bop bup bup skbip dap beef  ",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bfd"
+		},
+		{
+			"expression": "nice",
+			"text": "Estuvo facil, creo que puedo con otra más",
+			"boxState": "normal",
+			"portrait": "Sayverdialo",
+			"speed": 0.05,
+			"sound": "Sayver"
+		},
+		{
+			"expression": "confused",
+			"text": "(ayuda no se como quitar al bf) *golpe*",
+			"boxState": "normal",
+			"portrait": "",
+			"speed": 0.05,
+			"sound": "diialogue"
+		},
+		{
+			"expression": "oh",
+			"text": "ay...",
+			"boxState": "normal",
+			"portrait": "sayverdialo",
+			"speed": 0.05,
+			"sound": "sayver"
+		},
+		{
+			"expression": "JAJA",
+			"text": "JAJA Tonto",
+			"boxState": "normal",
+			"portrait": "amlexo",
+			"speed": 0.05,
+			"sound": "Amlex"
+		},
+		{
+			"expression": "T_T",
+			"text": "Hermano eso dolio",
+			"boxState": "normal",
+			"portrait": "Sayverdialo",
+			"speed": 0.05,
+			"sound": "Sayver"
+		},
+		{
+			"expression": "firme",
+			"text": "Quitate dejamelo a mi",
+			"boxState": "normal",
+			"portrait": "Amlexo",
+			"speed": 0.05,
+			"sound": "amlex"
+		},
+		{
+			"expression": "prota",
+			"text": "Mira como lo hace un prota",
+			"boxState": "normal",
+			"portrait": "amlexo",
+			"speed": 0.05,
+			"sound": "amlex"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bep bop bap ben push bum bap",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bfd"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"storyName": "Los lopez rapean",
+	"difficulties": "easy,hard",
+	"hideFreeplay": false,
+	"weekBackground": "playa",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Start",
+			"sayver",
+			[
+				66,
+				133,
+				253
+			]
+		],
+		[
+			"El prota",
+			"amlex",
+			[
+				26,
+				233,
+				60
+			]
+		],
+		[
+			"yorch.",
+			"yorch",
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"bienvenidos a la song",
+			"warloz",
+			[
+				255,
+				140,
+				40
+			]
+		],
+		[
+			"Caos Vallartence",
+			"lopez",
+			[
+				246,
+				20,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "lopez"
+}

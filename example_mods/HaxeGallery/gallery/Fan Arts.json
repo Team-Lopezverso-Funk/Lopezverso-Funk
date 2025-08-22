@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Fan Arts",
+        "icon": "default",
+        "antialiasing": true,
+        "animationName": null,
+        "scale": [1.0, 1.0],
+
+        "textColor": "2A20AD",
+
+        "music": "chartEditorLoop",
+        "enablePhotoMode": true,
+
+        "style": "Default",
+
+        "images":[
+            {
+                "name": "Kot",
+                "description": "Meow blyat",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [0.5, 0.5],
+                "scaleUnSelected": [0.2, 0.2],
+
+                "bgColor": "ffffff"
+                            
+            },
+            {
+                "name": "Pizdec",
+                "description": "oh...",
+                "antialiasing": true  ,     
+                "animationName": null,
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "505050"
+                            
+            },
+            {
+                "name": "characters/bfChristmas",
+                "description": "Keith",
+                "antialiasing": true  ,     
+                "animationName": "BF idle dance",
+
+                "scaleSelected": [1.4, 1.4],
+                "scaleUnSelected": [0.8, 0.8],
+
+                "bgColor": "ffffff"
+                            
+            }
+        ]
+    }
+]

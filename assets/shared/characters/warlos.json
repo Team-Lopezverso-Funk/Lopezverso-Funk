@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [280, 130],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Widle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [280, 130],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Wleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [280, 130],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Wup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [280, 130],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Wright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [280, 130],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Wdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [280, 130],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Whey",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/warloz",
+	"position": [0, 0],
+	"healthicon": "warloz",
+	"flip_x": true,
+	"healthbar_colors": [255, 140, 71],
+	"camera_position": [-240, 0],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

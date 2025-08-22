@@ -1,0 +1,69 @@
+{
+	"camera_boyfriend": [
+		-550,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "AmlexPlay",
+		"dad": "sayver",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		630,
+		-16
+	],
+	"girlfriend": [
+		400,
+		130
+	],
+	"stageUI": "normal",
+	"defaultZoom": 0.8,
+	"objects": [
+		{
+			"x": -630,
+			"y": -419,
+			"scale": [
+				0.65,
+				0.65
+			],
+			"image": "peach/peach",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Castillo",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"camera_speed": 1,
+	"directory": "",
+	"opponent": [
+		-234,
+		-31
+	],
+	"camera_opponent": [
+		50,
+		50
+	],
+	"hide_girlfriend": true
+}

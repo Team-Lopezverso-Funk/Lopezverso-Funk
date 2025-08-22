@@ -1,0 +1,1 @@
+copy "gallery/" folder into your mod folder
