@@ -1,5 +1,4 @@
 @echo off
-title Compiler
 setlocal enabledelayedexpansion
 
 :: Enable ANSI escape codes (Windows 10+)
@@ -10,9 +9,7 @@ set "GREEN=%ESC%[32m"
 set "YELLOW=%ESC%[33m"
 set "RESET=%ESC%[0m"
 
-echo %YELLOW%========================================%RESET%
-echo              %YELLOW%COMPILER%RESET%
-echo %YELLOW%========================================%RESET%
+echo %YELLOW%================ COMPILER ================%RESET%
 echo.
 echo Select the platform to compile:
 echo [1] Windows
@@ -27,19 +24,16 @@ set /p option=Enter option number:
 if exist compilation_log.txt del compilation_log.txt
 
 if "%option%"=="1" (
-    echo %YELLOW%Compiling for Windows...%RESET%
     lime test windows > compilation_log.txt 2>&1
 ) else if "%option%"=="2" (
-    echo %YELLOW%Compiling for Mac...%RESET%
     lime test mac > compilation_log.txt 2>&1
 ) else if "%option%"=="3" (
-    echo %YELLOW%Compiling for Linux...%RESET%
     lime test linux > compilation_log.txt 2>&1
 ) else if "%option%"=="4" (
-    echo %YELLOW%Compiling for Android...%RESET%
     lime test android > compilation_log.txt 2>&1
+    if exist "export/android/bin" start "" "export/android/bin"
 ) else (
-    echo %RED%Invalid option.%RESET%
+    echo Invalid option.
     pause
     exit /b
 )
@@ -47,17 +41,10 @@ if "%option%"=="1" (
 :: Check if errors exist in the log
 findstr /i /c:"Error" compilation_log.txt >nul
 if %errorlevel%==0 (
-    echo.
-    echo %RED%========================================%RESET%
-    echo          COMPILATION FAILED
-    echo   Check compilation_log.txt for details
-    echo %RED%========================================%RESET%
+    echo %RED%Compilation failed%RESET%
+    echo Check compilation_log.txt for details
 ) else (
-    echo.
-    echo %GREEN%========================================%RESET%
-    echo          COMPILATION SUCCESSFUL
-    echo   Check compilation_log.txt for details
-    echo %GREEN%========================================%RESET%
+    echo %GREEN%Compilation successful%RESET%
 )
 
 pause
